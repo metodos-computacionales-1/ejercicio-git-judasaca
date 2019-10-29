@@ -8,7 +8,7 @@ int main(void)
     std::cin>>r;
     std::cout<<"el perimetro es "<<2*r*pi<<std::endl;
     std::cout<<"el diametro es "<<2*r<<std::endl;
-    
+    std::cout<<"el area es "<<pi*r*r<<std::endl;
     
     
     return 0;
